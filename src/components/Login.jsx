@@ -83,8 +83,8 @@ export default function Login() {
 
         {/* Left illustration */}
         <div className="login-image">
-{/*           <img src={Photo} alt="Illustration" /> */}
-          <img src="/images/photo.webp" alt="Illustration" />
+          <img src={Photo} alt="Illustration" />
+{/*           <img src="/images/photo.png" alt="Illustration" /> */}
         </div>
 
         {/* Right form */}
