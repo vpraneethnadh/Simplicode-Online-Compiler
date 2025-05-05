@@ -21,7 +21,7 @@ import {
   FaEye,
   FaEyeSlash,
 } from 'react-icons/fa';
-import Photo from '/images/photo.webp';
+import Photo from '/images/photo.png';
 import './css/register.css';
 
 export default function Register() {
@@ -90,8 +90,8 @@ export default function Register() {
 
         {/* Left illustration */}
         <div className="register-image">
-{/*           <img src={Photo} alt="Illustration" /> */}
-          <img src="/images/photo.webp" alt="Illustration" />
+          <img src={Photo} alt="Illustration" />
+{/*           <img src="/images/photo.webp" alt="Illustration" /> */}
         </div>
 
         {/* Right form */}
