@@ -16,7 +16,7 @@ import {
   FaEye,
   FaEyeSlash,
 } from 'react-icons/fa';
-import Photo from '../images/photo.webp';
+import Photo from '/images/photo.webp';
 import './css/login.css';
 
 export default function Login() {
