@@ -90,7 +90,8 @@ export default function Register() {
 
         {/* Left illustration */}
         <div className="register-image">
-          <img src={Photo} alt="Illustration" />
+{/*           <img src={Photo} alt="Illustration" /> */}
+          <img src="/images/photo.webp" alt="Illustration" />
         </div>
 
         {/* Right form */}
